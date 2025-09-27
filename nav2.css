@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar{
+   color:white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    border:.1px solid white;
+    border-radius: 5px;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    gap:30px;
+}
+header{
+    background-image: url(fancyhouse.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-right:515px;
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    height:700px;
+    width: 500px;
+    
+}
+.ch{
+    margin-top: 100px;
+    color:white;
+}
+.ch #a{
+    margin-top: 50px;
+    display: flex;
+    justify-content:left;
+    gap:100px;
+    border: .5px solid white;
+    align-items: center;
+    color:white;
+    list-style: none;
+    height:50px;
+    /* background-image: url(blurimg.webp); */
+    
+
+}
+.ch #a1{
+    margin-top: 50px;
+    display: flex;
+    justify-content:left;
+    gap:100px;
+    border: .5px solid white;
+    align-items: center;
+    color:white;
+    list-style: none;
+    height:50px;
+    /* background-image: url(blurimg.webp); */
+    
+
+}
+#btn{
+    height:7vmin;
+    width: 7vmin;
+    border: 0px;
+}
+

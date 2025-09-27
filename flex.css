@@ -1,0 +1,12 @@
+.parent{
+    display:flex;
+display:flex;
+    justify-content:space-evenly;
+}
+
+.ch{
+    background-color: greenyellow;
+    border :2px solid black;
+    height:200px;
+    width:200px;
+}

@@ -1,0 +1,53 @@
+.nav{
+    
+    height: 3rem;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+   
+}
+.detail{
+    display: flex;
+    justify-content: space-around;
+    
+   
+}
+
+a{
+      text-decoration: none;
+margin-left: 2rem;
+color:black;
+}
+#train{
+    color: #2c7da0;
+
+}
+
+img{
+    height:600px
+
+}
+.container{
+    
+    display: flex;
+    justify-content:space-evenly ;
+    align-items: center;
+}
+.highlight{
+    color: #2c7da0;
+
+}
+button{
+    background-color: #2ec4b6;
+    color: white;
+    font-size: 30px;
+    padding:10px;
+    border:none;
+    border-radius: 5px;
+}
+footer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

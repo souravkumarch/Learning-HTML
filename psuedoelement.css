@@ -1,0 +1,25 @@
+/* #btn{
+    background-color: yellow;
+    border: none;
+    padding: 20px;
+    transition: all 1s;
+} */
+#btn:hover{
+    background-color: aqua;
+    border-radius: 10%;
+    border-radius: 1px solid black;
+    transition: all 1s;
+}
+
+h1:nth-child(3){
+    background-color: lime;
+}
+input::placeholder{
+color:tomato;
+}
+
+/* kisi paragraph ko select karne ke baad uska background volor  hange karna ho to P::selection {iske andar likhte hai} */
+p::selection{
+    background-color: red;
+    color:white;
+}
